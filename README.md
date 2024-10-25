@@ -1,7 +1,6 @@
-<div id="header" align="center">
-  <img src="https://github.com/miqueasmd/miqueasmd/blob/main/Github-Banner.png" width="800"/>
-</div>
-
+<h1>
+  Hi there! 👋 I'm Miqueas 
+</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/miqueas-molina">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -16,11 +15,6 @@
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
 </p>
-
-<h1>
-  Hi there! 👋 I'm Miqueas 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 
 # 🎓 Data Analysis | IT Training & Sales
