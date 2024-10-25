@@ -44,7 +44,7 @@ Following that, I embarked on a journey around the world, working in training an
 Data Analysis at Ironhack with a focus on Python, SQL, and machine learning applications, aiming to work in the fields of **Data Analytics** and **Machine Learning**.
 
 ## 🌍 Language Proficiency 
-Fluent in Spanish (Native), English (Fluent), French (B1 and learning).
+Fluent in Spanish (Native), English (Proficient), French (B1 and learning).
 
 ## 🛠️ Technical Skills 
   - **Programming**: Python, C#, HTML, CSS, JavaScript  
@@ -75,13 +75,6 @@ Here's a selection of projects I'm working on or have recently completed:
 ## 📈 Goals for 2025
 - Complete Ironhack's Data Analysis (Big Data) course.
 - Obtain a position in a remote data analyst role, ideally with an international team.
-
----
-
-## 🌱 I’m Currently Learning
-- Advanced data analysis techniques using **Python and SQL**.
-- **Machine Learning** fundamentals and model-building strategies.
-- Continuous improvement in **French**, aiming for B2 fluency.
 
 ---
 
