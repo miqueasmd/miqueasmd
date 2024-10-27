@@ -36,10 +36,23 @@ Data Analysis at Ironhack with a focus on Python, SQL, and machine learning appl
 ## 🌍 Language Proficiency 
 Fluent in Spanish (Native), English (Proficient), French (B1 and learning).
 
-## 🛠️ Technical Skills 
-  - **Programming**: Python, C#, HTML, CSS, JavaScript  
-  - **Data & Visualization Tools**: SQL, Power BI, Tableau, Excel / Google Sheets
-  - **Web Technologies**: Familiar with REST APIs
+## 💻 Technical Skills
+
+### **Programming:**
+- **Data Analytics, Machine Learning and IA:** Python, SQL
+- **2nd IT Degree (2023-2025):** C#, HTML, CSS, JavaScript
+- **Apple Teacher & Developer:** Swift Playground & Swift
+- **1st IT Degree (2007-2009):** Java, C++, PHP, Visual Basic, Shell script (Unix) 
+
+### **Data & Visualization Tools:**
+- SQL
+- Power BI
+- Tableau
+- Excel / Google Sheets
+
+### **Web Technologies:**
+- REST APIs
+- Web Scraping
 
 ---
 
