@@ -12,16 +12,13 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </p>
 
+# 🚀 About Me
 
-# 🎓 Data Analysis | IT Training & Sales
+## 🎓 Data Analysis | IT Training & Sales
 
-I'm a data enthusiast with a diverse background in IT, training, and sales, currently sharpening my skills in data analysis and machine learning.
+I'm a data enthusiast with a diverse IT, training, and sales background, currently sharpening my data analysis and machine learning skills.
 
 With experience as a bilingual technical trainer, I combine analytical problem-solving with a strong passion for training and mentoring others.
-
-
-
-## 🚀 About Me
 
 ## 💼 Career Journey  
 My IT journey began in 2007, when computers were less common. I started by studying for an IT degree, which gave me a strong foundation in tech fundamentals. 
@@ -42,7 +39,7 @@ Fluent in Spanish (Native), English (Proficient), French (B1 and learning).
 - **Data Analytics, Machine Learning and IA:** Python, SQL
 - **2nd IT Degree (2023-2025):** C#, HTML, CSS, JavaScript
 - **Apple Teacher & Developer:** Swift Playground & Swift
-- **1st IT Degree (2007-2009):** Java, C++, PHP, Visual Basic, Shell script (Unix) 
+- **1st IT Degree (2007-2009):** Java, C++, PHP, Visual Basic, Shell script
 
 ### **Data & Visualization Tools:**
 - SQL
@@ -53,14 +50,12 @@ Fluent in Spanish (Native), English (Proficient), French (B1 and learning).
 ### **Web Technologies:**
 - REST APIs
 - Web Scraping
-
 ---
 
 ## 🔍 Areas of Interest
 - **Machine Learning & Artificial Intelligence**: Excited about exploring new algorithms, improving predictive models, and developing impactful data-driven solutions.
 - **Educational Technology**: Blending data science with educational/training tools to enhance learning experiences.
 - **Natural Language Processing (NLP)**: Interested in text analysis, especially in multilingual environments.
-
 ---
 
 ## 🛠️ Projects
@@ -71,7 +66,6 @@ Here's a selection of projects I'm working on or have recently completed:
 - **[Haunted House Escape Room](https://github.com/miqueasmd/Haunted-House-Escaperoom)**: Developed an interactive text-based game in Python, incorporating both text and image assets.
 
 > More projects can be found in my repositories! Feel free to check them out and provide feedback.
-
 
 ---
 
