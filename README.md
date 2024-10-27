@@ -31,7 +31,7 @@ I then had the opportunity to work at the first Apple Store in Marbella, Málaga
 Following that, I embarked on a journey around the world, working in training and sales across IT, sports, and languages—my three passions. 
 
 ## 💡 Current Focus
-Data Analysis at Ironhack with a focus on Python, SQL, and machine learning applications, aiming to work in the fields of **Data Analytics** and **Machine Learning**.
+Data Analysis with a focus on Python, SQL, and machine learning applications, aiming to work in the fields of **Data Analytics** and **Machine Learning**.
 
 ## 🌍 Language Proficiency 
 Fluent in Spanish (Native), English (Proficient), French (B1 and learning).
