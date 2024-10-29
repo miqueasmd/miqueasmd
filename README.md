@@ -25,7 +25,7 @@ My IT journey began in 2007, when computers were less common. I started by study
 
 I then had the opportunity to work at the first Apple Store in Marbella, Málaga, Spain, gaining firsthand experience in sales, tech support, and customer service within a rapidly evolving industry.
 
-Following that, I embarked on a journey around the world, working in training and sales across IT, sports, and languages—my three passions. 
+Following that, I embarked on a journey around the world (Spain, Germany, UK, USA), working in training and sales across IT, sports, and languages—my three passions. 
 
 ## 💡 Current Focus
 Data Analysis with a focus on Python, SQL, and machine learning applications, aiming to work in the fields of **Data Analytics** and **Machine Learning**.
