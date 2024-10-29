@@ -70,8 +70,8 @@ Here's a selection of projects I'm working on or have recently completed:
 ---
 
 ## 📈 Goals for 2025
-- Complete Ironhack's Data Analysis (Big Data) course.
-- Obtain a position in a remote data analyst role, ideally with an international team.
+- Complete Ironhack's Data Analysis and Machine Learning course.
+- Obtain a remote data analyst position, ideally with an international team.
 
 ---
 
