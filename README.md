@@ -21,9 +21,9 @@ I'm a data enthusiast with a diverse IT, training, and sales background, current
 With experience as a bilingual technical trainer, I combine analytical problem-solving with a strong passion for training and mentoring others.
 
 ## 💼 Career Journey  
-My IT journey began in 2007, when computers were less common. I started by studying for an IT degree, which gave me a strong foundation in tech fundamentals. 
+My IT journey began in 2007, when computers and smartphones were less common. I started by studying for an IT degree, which gave me a strong foundation in tech fundamentals. 
 
-I then had the opportunity to work at the first Apple Store in Marbella, Málaga, Spain, gaining firsthand experience in sales, tech support, and customer service within a rapidly evolving industry.
+I then, had the opportunity to work at the first Apple Store in Marbella, Málaga, Spain, gaining firsthand experience in sales, tech support, and customer service within a rapidly evolving industry.
 
 Following that, I embarked on a journey around the world (USA, UK, Germany and Spain), working in training and sales across IT, sports, and languages—my three passions. 
 
