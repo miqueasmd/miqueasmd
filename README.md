@@ -27,7 +27,7 @@ With experience as a bilingual technical trainer, I combine analytical problem-s
 ## 💼 Career Journey  
 My IT journey began in 2007, when computers and smartphones were less common. I started by studying for an IT degree, which gave me a strong foundation in tech fundamentals. 
 
-I then, had the opportunity to work at the first Apple Store in Marbella, Málaga, Spain, gaining firsthand experience in sales, tech support, and customer service within a rapidly evolving industry.
+Then, I had the opportunity to work at the first Apple Store in Marbella, Málaga, Spain, gaining firsthand experience in sales, tech support, and customer service within a rapidly evolving industry.
 
 Following that, I embarked on a journey around the world (USA, UK, Germany and Spain), working in training and sales across IT, sports, and languages—my three passions. 
 
@@ -35,7 +35,7 @@ Following that, I embarked on a journey around the world (USA, UK, Germany and S
 Data Analysis with a focus on Python, SQL, and machine learning applications, aiming to work in the fields of **Data Analytics** and **Machine Learning**.
 
 ## 🌍 Language Proficiency 
-Fluent in Spanish (Native), English (Proficient), French (B1 and learning).
+Fluent in Spanish (Native), English (Proficient), French (B1 and learning) and Sign Language (Intermediate).
 
 ## 💻 Technical Skills
 
