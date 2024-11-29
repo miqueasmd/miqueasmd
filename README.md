@@ -18,7 +18,7 @@
 
 # 🚀 About Me
 
-## 🎓 Data Analysis | IT Training & Sales
+## 🎓 Data Analysis | IT, Training & Sales
 
 I'm a data enthusiast with a diverse IT, training, and sales background, currently sharpening my data analysis and machine learning skills.
 
