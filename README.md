@@ -68,8 +68,10 @@ Here's a selection of projects I'm working on or have recently completed:
 
 - **[Shark Attack (Olympic Games Edition)](https://github.com/miqueasmd/Shark-Attack-Olympic-Games-Edition)**: Analyzed a dataset of shark attacks to help an insurance company determine rates for Olympic athletes.
 - **[Haunted House Escape Room](https://github.com/miqueasmd/Haunted-House-Escaperoom)**: Developed an interactive text-based game in Python, incorporating both text and image assets.
+- **[Translator App](https://github.com/miqueasmd/translator)**: Built a multilingual text translator in Python using the **Deep Translator** library, enabling seamless translations for various use cases. Try it out here: [Translator App on Streamlit](https://mmdtranslator.streamlit.app/).
 
 > More projects can be found in my repositories! Feel free to check them out and provide feedback.
+
 
 ---
 
