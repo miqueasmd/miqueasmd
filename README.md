@@ -39,18 +39,25 @@ Fluent in Spanish (Native), English (Proficient), French (B1 and learning) and S
 
 ## 💻 Technical Skills
 
+---
+
 ### **Programming:**
-- **Data Analytics, Machine Learning and IA:** Python, SQL. ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- **2nd IT Degree (2023-2025):** C#, HTML, CSS, JavaScript
-- **Apple Teacher & Developer:** Swift Playground & Swift
-- **1st IT Degree (2007-2009):** Java, C++, PHP, Visual Basic, Shell script
+- **Data Analytics, Machine Learning, and IA:** Python, SQL   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)   ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)  
+- **2nd IT Degree (2023-2025):** C#, HTML, CSS, JavaScript  ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)  
+- **Apple Teacher & Developer:** Swift Playground & Swift  ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)  
+- **1st IT Degree (2007-2009):** Java, C++, PHP, Visual Basic, Shell script  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)   ![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+---
 
 ### **Data & Visualization Tools:**
-- SQL. ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
-- Power BI
-- Tableau
-- Excel / Google Sheets
-- Streamlit. ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+- SQL   ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)  
+- Power BI   ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
+- Tableau   ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
+- Excel / Google Sheets   ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)   ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)  
+- Streamlit  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+---
+
 
 
 
