@@ -40,16 +40,22 @@ Fluent in Spanish (Native), English (Proficient), French (B1 and learning) and S
 ## 💻 Technical Skills
 
 ### **Programming:**
-- **Data Analytics, Machine Learning and IA:** Python, SQL
+- **Data Analytics, Machine Learning and IA:** Python, SQL. ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 - **2nd IT Degree (2023-2025):** C#, HTML, CSS, JavaScript
 - **Apple Teacher & Developer:** Swift Playground & Swift
 - **1st IT Degree (2007-2009):** Java, C++, PHP, Visual Basic, Shell script
 
 ### **Data & Visualization Tools:**
-- SQL
+- SQL. ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
 - Power BI
 - Tableau
 - Excel / Google Sheets
+- Streamlit. ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+
+
+
+
 
 ### **Web Technologies:**
 - REST APIs
@@ -68,7 +74,11 @@ Here's a selection of projects I'm working on or have recently completed:
 
 - **[Shark Attack (Olympic Games Edition)](https://github.com/miqueasmd/Shark-Attack-Olympic-Games-Edition)**: Analyzed a dataset of shark attacks to help an insurance company determine rates for Olympic athletes.
 - **[Haunted House Escape Room](https://github.com/miqueasmd/Haunted-House-Escaperoom)**: Developed an interactive text-based game in Python, incorporating both text and image assets.
-- **[Translator App](https://github.com/miqueasmd/translator)**: Built a multilingual text translator in Python using the **Deep Translator** library, enabling seamless translations for various use cases. Try it out here: [Translator App on Streamlit](https://mmdtranslator.streamlit.app/).
+- **[Translator App](https://github.com/miqueasmd/translator)**: 
+  - **Features**: Multilingual text translation, intuitive interface, and real-time results.
+  - **Tech Stack**: Python, Streamlit, Deep Translator API.
+  - **Live Demo**: [Try the App](https://mmdtranslator.streamlit.app/)
+
 
 > More projects can be found in my repositories! Feel free to check them out and provide feedback.
 
@@ -81,8 +91,8 @@ Here's a selection of projects I'm working on or have recently completed:
 
 ---
 
-## 📫 Let's Connect
-I’m always open to discussing data, tech, and collaborations!
+## 📫 Let's build something amazing together!  
+Feel free to reach out for collaborations, feedback, or even a quick chat. 😊
 
 - [LinkedIn](https://www.linkedin.com/in/miqueas-molina)
 - [GitHub](https://github.com/miqueasmd)
