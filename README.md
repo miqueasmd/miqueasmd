@@ -106,6 +106,11 @@ Feel free to reach out for collaborations, feedback, or even a quick chat. 😊
 - [Upwork](https://www.upwork.com/freelancers/miqueasmd)
 
 ---
+## ☕ Support Me
+
+If you like my work, consider buying me a coffee!
+
+<a href="https://ko-fi.com/miqueasmd"><img src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
 
 **Thank you for visiting my profile!** 😊
 
