@@ -58,12 +58,6 @@ Fluent in Spanish (Native), English (Proficient), French (B1 and learning) and S
 
 ---
 
-
-
-
-
-
-
 ### **Web Technologies:**
 - REST APIs
 - Web Scraping
@@ -94,6 +88,7 @@ Here's a selection of projects I'm working on or have recently completed:
 
 ## 📈 Goals for 2025
 - Complete Ironhack's Data Analysis and Machine Learning course.
+- Start Computer Science and Engineering studies at the University of the People (UoPeople) in September 2025.
 - Obtain a remote data analyst position, ideally with an international team.
 
 ---
@@ -108,7 +103,8 @@ Feel free to reach out for collaborations, feedback, or even a quick chat. 😊
 ---
 ## ☕ Support Me
 
-If you like my work, consider buying me a coffee!
+If you like my work, consider supporting my studies!  
+Your contributions will help cover fees and materials for my **Computer Science and Engineering studies  at UoPeople** starting in September 2025.
 
 <a href="https://ko-fi.com/miqueasmd"><img src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
 
