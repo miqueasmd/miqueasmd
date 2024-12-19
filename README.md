@@ -114,3 +114,7 @@ Your contributions will help cover fees and materials for my **Computer Science 
 **Thank you for visiting my profile!** 😊
 
 I look forward to connecting with fellow enthusiasts and potential collaborators in IT, Training, Sales, and beyond.
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=miqueasmd&data=followers,repositories,stars,commits)](https://github.com/Jurredr)
+
+
