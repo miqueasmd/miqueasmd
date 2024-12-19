@@ -14,6 +14,9 @@
   <a href="https://github.com/miqueasmd">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   </a>
+  <a href="https://ko-fi.com/miqueasmd">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" />
+  </a>
 </p>
 
 # 🚀 About Me
