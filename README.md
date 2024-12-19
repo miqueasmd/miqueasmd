@@ -20,7 +20,6 @@
 </p>
 
 # 🚀 About Me
-
 ## 🎓 Data Analysis | IT, Training & Sales
 
 I'm a data enthusiast with a diverse IT, training, and sales background, currently sharpening my data analysis and machine learning skills.
@@ -40,9 +39,8 @@ Data Analysis with a focus on Python, SQL, and machine learning applications, ai
 ## 🌍 Language Proficiency 
 Fluent in Spanish (Native), English (Proficient), French (B1 and learning) and Sign Language (Intermediate).
 
-## 💻 Technical Skills
-
 ---
+## 💻 Technical Skills
 
 ### **Programming:**
 - **Data Analytics, Machine Learning, and IA:** Python, SQL   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)   ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)  
@@ -50,7 +48,6 @@ Fluent in Spanish (Native), English (Proficient), French (B1 and learning) and S
 - **Apple Teacher & Developer:** Swift Playground & Swift  ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)  
 - **1st IT Degree (2007-2009):** Java, C++, PHP, Visual Basic, Shell script  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)   ![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
----
 
 ### **Data & Visualization Tools:**
 - SQL   ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)  
@@ -59,17 +56,18 @@ Fluent in Spanish (Native), English (Proficient), French (B1 and learning) and S
 - Excel / Google Sheets   ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)   ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)  
 - Streamlit  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
----
 
 ### **Web Technologies:**
 - REST APIs
 - Web Scraping
+
 ---
 
 ## 🔍 Areas of Interest
 - **Machine Learning & Artificial Intelligence**: Excited about exploring new algorithms, improving predictive models, and developing impactful data-driven solutions.
 - **Educational Technology**: Blending data science with educational/training tools to enhance learning experiences.
 - **Natural Language Processing (NLP)**: Interested in text analysis, especially in multilingual environments.
+
 ---
 
 ## 🛠️ Projects
@@ -111,7 +109,8 @@ Your contributions will help cover fees and materials for my **Computer Science 
 
 <a href="https://ko-fi.com/miqueasmd"><img src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
 
+---
+
 **Thank you for visiting my profile!** 😊
 
 I look forward to connecting with fellow enthusiasts and potential collaborators in IT, Training, Sales, and beyond.
-
