@@ -54,7 +54,8 @@ Fluent in Spanish (Native), English (Proficient), French (B1 and learning) and S
 - Power BI   ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
 - Tableau   ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
 - Excel / Google Sheets   ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)   ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)  
-- Streamlit  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+- Streamlit  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)  
+- Gradio   ![Gradio](https://img.shields.io/badge/Gradio-1B1C30?style=flat&logo=gradio&logoColor=white)  
 
 
 ### **Web Technologies:**
