@@ -75,12 +75,16 @@ Fluent in Spanish (Native), English (Proficient), French (B1 and learning) and S
 
 Here's a selection of projects I'm working on or have recently completed:
 
-- **[Shark Attack (Olympic Games Edition)](https://github.com/miqueasmd/Shark-Attack-Olympic-Games-Edition)**: Analyzed a dataset of shark attacks to help an insurance company determine rates for Olympic athletes.
-- **[Haunted House Escape Room](https://github.com/miqueasmd/Haunted-House-Escaperoom)**: Developed an interactive text-based game in Python, incorporating both text and image assets.
+- **[100 Days of Code (Replit Challenge)](https://github.com/miqueasmd/100_days_of_Code_Replit)**: 
+  - **Features**: A series of coding challenges and projects designed to enhance programming skills across various domains.
+  - **Tech Stack**: Python, Flask, Shelve DB, HTML, CSS and JavaScript.
+  - **Repository**: [Explore the Challenges](https://github.com/miqueasmd/100_days_of_Code_Replit)
 - **[Translator App](https://github.com/miqueasmd/translator)**: 
   - **Features**: Multilingual text translation, intuitive interface, and real-time results.
   - **Tech Stack**: Python, Streamlit, Deep Translator API.
   - **Live Demo**: [Try the App](https://mmdtranslator.streamlit.app/)
+- **[Shark Attack (Olympic Games Edition)](https://github.com/miqueasmd/Shark-Attack-Olympic-Games-Edition)**: Analyzed a dataset of shark attacks to help an insurance company determine rates for Olympic athletes.
+- **[Haunted House Escape Room](https://github.com/miqueasmd/Haunted-House-Escaperoom)**: Developed an interactive text-based game in Python, incorporating both text and image assets.
 
 
 > More projects can be found in my repositories! Feel free to check them out and provide feedback.
