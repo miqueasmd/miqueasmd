@@ -95,7 +95,7 @@ Here's a selection of projects I'm working on or have recently completed:
 ## 📈 Goals for 2025
 - Complete Ironhack's Data Analysis and Machine Learning course.
 - Start Computer Science and Engineering studies at the University of the People (UoPeople) in September 2025.
-- Obtain a remote data analyst position, ideally with an international team.
+- Obtain a remote IT position, ideally with an international team.
 
 ---
 
