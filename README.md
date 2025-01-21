@@ -65,9 +65,9 @@ Fluent in Spanish (Native), English (Proficient), French (B1 and learning) and S
 ---
 
 ## 🔍 Areas of Interest
-- **Machine Learning & Artificial Intelligence**: Excited about exploring new algorithms, improving predictive models, and developing impactful data-driven solutions.
+- **AI & Cloud Computing**: Interested in deploying and scaling IT solutions using cloud platforms.
+- **Data analysis & Machine Learning**: Excited about exploring new algorithms, improving predictive models, and developing impactful data-driven solutions.
 - **Educational Technology**: Blending data science with educational/training tools to enhance learning experiences.
-- **Natural Language Processing (NLP)**: Interested in text analysis, especially in multilingual environments.
 
 ---
 
