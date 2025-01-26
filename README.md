@@ -22,7 +22,7 @@
 # 🚀 About Me
 ## 🎓 Data Analysis | IT, Training & Sales
 
-I'm a data enthusiast with a diverse IT, training, and sales background, currently sharpening my data analysis and machine learning skills.
+I'm a data enthusiast with a diverse IT, training, and sales background, currently sharpening my  skills in Cloud Engineering, AI Agents & Automations, Data Analysis and Machine Learning.
 
 With experience as a bilingual technical trainer, I combine analytical problem-solving with a strong passion for training and mentoring others.
 
@@ -65,9 +65,10 @@ Fluent in Spanish (Native), English (Proficient), French (B1 and learning) and S
 ---
 
 ## 🔍 Areas of Interest
-- **AI & Cloud Computing**: Interested in deploying and scaling IT solutions using cloud platforms.
-- **Data analysis & Machine Learning**: Excited about exploring new algorithms, improving predictive models, and developing impactful data-driven solutions.
-- **Educational Technology**: Blending data science with educational/training tools to enhance learning experiences.
+- **AI & Cloud Computing**: Interested in deploying and scaling IT solutions using cloud platforms. ☁️
+- **AI Agents & Automations**: Focused on building intelligent AI agents and automating processes to improve efficiency and decision-making. 🤖
+- **Data analysis & Machine Learning**: Excited about exploring new algorithms, improving predictive models, and developing impactful data-driven solutions. 📊
+- **Educational Technology**: Blending data science with educational/training tools to enhance learning experiences. 🎓
 
 ---
 
