@@ -19,9 +19,8 @@
   </a>
 </p>
 
-# 🚀 About Me
-## 🎓 AI Cloud Engineer | AI Agents & Automations | Technical Trainer 
-## 💻 Data Analyst & Machine Learning | IT, Training & Sales
+# 🚀 About Me  💻  IT, Training & Sales
+## 🎓 AI Cloud Engineer | AI Agents & Automations | Technical Trainer | Data Analyst & Machine Learning
 
 I'm a data enthusiast with a diverse IT, training, and sales background, currently sharpening my  skills in Cloud Engineering, AI Agents & Automations, Data Analysis and Machine Learning.
 
