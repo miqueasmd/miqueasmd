@@ -20,7 +20,7 @@
 </p>
 
 # 🚀 About Me
-## 🎓 Data Analysis | IT, Training & Sales
+## 🎓 AI Cloud Engineer | AI Agents & Automations | Technical Trainer | Data Analyst & Machine Learning | IT, Training & Sales
 
 I'm a data enthusiast with a diverse IT, training, and sales background, currently sharpening my  skills in Cloud Engineering, AI Agents & Automations, Data Analysis and Machine Learning.
 
