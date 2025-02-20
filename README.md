@@ -72,20 +72,44 @@ Fluent in Spanish (Native), English (Proficient), French (B1 and learning) and S
 
 ---
 
-## 🛠️ Projects
+## 🛠️ Projects  
 
-Here's a selection of projects I'm working on or have recently completed:
+### [HealthyRemote](https://github.com/miqueasmd/HealthyRemote)
+- **Overview**: A wellness platform designed for remote workers to track activities, stress levels, weight, and mobility tests to maintain a healthy lifestyle.
+- **Features**:
+  - User authentication (login and sign-up).
+  - Daily activity tracking.
+  - Stress level and weight logging.
+  - Mobility tests and wellness challenges.
+  - Comprehensive dashboard for user insights.
+- **Tech Stack**: Python, Streamlit, PostgreSQL (Neon), psycopg2, dotenv.
+- **Live Demo**: [Try HealthyRemote](https://healthyremote.streamlit.app/)
+- **Repository**: [HealthyRemote GitHub](https://github.com/miqueasmd/HealthyRemote)
 
-- **[100 Days of Code (Replit Challenge)](https://github.com/miqueasmd/100_days_of_Code_Replit)**: 
-  - **Features**: A series of coding challenges and projects designed to enhance programming skills across various domains.
-  - **Tech Stack**: Python, Flask, Shelve DB, HTML, CSS and JavaScript.
-  - **Repository**: [Explore the Challenges](https://github.com/miqueasmd/100_days_of_Code_Replit)
-- **[Translator App](https://github.com/miqueasmd/translator)**: 
-  - **Features**: Multilingual text translation, intuitive interface, and real-time results.
-  - **Tech Stack**: Python, Streamlit, Deep Translator API.
-  - **Live Demo**: [Try the App](https://mmdtranslator.streamlit.app/)
-- **[Shark Attack (Olympic Games Edition)](https://github.com/miqueasmd/Shark-Attack-Olympic-Games-Edition)**: Analyzed a dataset of shark attacks to help an insurance company determine rates for Olympic athletes.
-- **[Haunted House Escape Room](https://github.com/miqueasmd/Haunted-House-Escaperoom)**: Developed an interactive text-based game in Python, incorporating both text and image assets.
+### [Microsoft Malware Detection Challenge](https://github.com/miqueasmd/Microsoft_Malware_Challenge)
+- **Overview**: A machine learning project predicting malware detections on Windows machines using Microsoft’s dataset of system and security features.
+- **Features**:
+  - Data preprocessing and feature engineering for 83 system-related features.
+  - Machine learning models for malware classification.
+  - Stratified sampling to maintain class balance.
+- **Tech Stack**: Python, Pandas, Scikit-learn, Jupyter Notebook.
+- **Repository**: [Microsoft Malware Challenge](https://github.com/miqueasmd/Microsoft_Malware_Challenge)
+
+### [100 Days of Code (Replit Challenge)](https://github.com/miqueasmd/100_days_of_Code_Replit)
+- **Features**: A series of coding challenges and projects designed to enhance programming skills across various domains.
+- **Tech Stack**: Python, Flask, Shelve DB, HTML, CSS, and JavaScript.
+- **Repository**: [Explore the Challenges](https://github.com/miqueasmd/100_days_of_Code_Replit)
+
+### [Translator App](https://github.com/miqueasmd/translator)
+- **Features**: Multilingual text translation, intuitive interface, and real-time results.
+- **Tech Stack**: Python, Streamlit, Deep Translator API.
+- **Live Demo**: [Try the App](https://mmdtranslator.streamlit.app/)
+
+### [Shark Attack (Olympic Games Edition)](https://github.com/miqueasmd/Shark-Attack-Olympic-Games-Edition)
+- **Overview**: Analyzed a dataset of shark attacks to help an insurance company determine rates for Olympic athletes.
+
+### [Haunted House Escape Room](https://github.com/miqueasmd/Haunted-House-Escaperoom)
+- **Overview**: Developed an interactive text-based game in Python, incorporating both text and image assets.
 
 
 > More projects can be found in my repositories! Feel free to check them out and provide feedback.
