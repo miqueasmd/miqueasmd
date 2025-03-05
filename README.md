@@ -14,9 +14,6 @@
   <a href="https://github.com/miqueasmd">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://ko-fi.com/miqueasmd">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" />
-  </a>
 </p>
 
 # 🚀 About Me  💻  IT, Training & Sales
@@ -114,13 +111,11 @@ Fluent in Spanish (Native), English (Proficient), French (B1 and learning) and S
 
 > More projects can be found in my repositories! Feel free to check them out and provide feedback.
 
-
 ---
 
 ## 📈 Goals for 2025
-- Complete Ironhack's Data Analysis and Machine Learning course.
-- Start Computer Science and Engineering studies at the UOC in February 2025.
 - Obtain a remote IT position, ideally with an international team.
+- Help as many individual and businesses with training, automations or cloud services. Using data to take better decisions.
 
 ---
 
@@ -130,21 +125,6 @@ Feel free to reach out for collaborations, feedback, or even a quick chat. 😊
 - [LinkedIn](https://www.linkedin.com/in/miqueas-molina)
 - [GitHub](https://github.com/miqueasmd)
 - [Upwork](https://www.upwork.com/freelancers/miqueasmd)
-
----
-## ☕ Support Me
-
-If you like my work, consider supporting my studies!
-
-Your support will allow me to focus on my studies and work on new projects by covering educational tools and software licenses.
-
-Your contributions will help cover fees and materials for my **Computer Science and Engineering studies at UOC** starting in February 2025.
-
-Every little bit helps—you can donate from as little as $1.
-
-<a href="https://ko-fi.com/miqueasmd"><img src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
-
-Thank you for helping me achieve my dreams!
 
 ---
 
