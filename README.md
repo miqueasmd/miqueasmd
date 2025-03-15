@@ -31,10 +31,10 @@ Then, I had the opportunity to work at the first Apple Store in Marbella, Málag
 Following that, I embarked on a journey around the world (USA, UK, Germany and Spain), working in training and sales across IT, sports, and languages—my three passions. 
 
 ## 💡 Current Focus
-Data Analysis with a focus on Python, SQL, and machine learning applications, aiming to work in the fields of **Data Analytics** and **Machine Learning**.
+I specialize in 𝗵𝗲𝗹𝗽𝗶𝗻𝗴 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀𝗲𝘀 𝗮𝗻𝗱 𝗽𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹𝘀 boost their skills and companies with Cloud, automation, and AI.
 
 ## 🌍 Language Proficiency 
-Fluent in Spanish (Native), English (Proficient), French (B1 and learning) and Sign Language (Intermediate).
+Fluent in Spanish (Native), English (Proficient), French (B2 and learning) and Sign Language (Intermediate).
 
 ---
 ## 💻 Technical Skills
