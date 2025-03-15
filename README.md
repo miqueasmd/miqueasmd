@@ -17,7 +17,7 @@
 </p>
 
 # 🚀 About Me  💻 Technical Trainer (EN/ES/FR)
-## 🎓 Cloud Engineer | AI Agents & Automations, RPA | Data Analyst & Machine Learning
+## 🎓 AI Agents & Automations, RPA | Cloud Engineer | Data Analyst & Machine Learning
 
 I'm a data enthusiast with a diverse IT, training, and sales background, currently sharpening my  skills in Cloud Engineering, AI Agents & Automations, Data Analysis and Machine Learning.
 
