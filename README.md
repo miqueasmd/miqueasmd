@@ -121,7 +121,7 @@ Fluent in Spanish (Native), English (Proficient), French (B2 and learning) and S
 ---
 
 ## 📈 Goals for 2025
-- Secure a remote IT position, preferably in an international team.
+- Secure a remote IT or Training position, preferably in an international team.
 - Assist individuals and businesses with training, automation, and cloud services.
 - Leverage data to drive smarter decision-making.
 
