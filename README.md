@@ -16,8 +16,8 @@
   </a>
 </p>
 
-# 🚀 About Me  💻  IT, Training & Sales
-## 🎓 AI Cloud Engineer | AI Agents & Automations | Technical Trainer | Data Analyst & Machine Learning
+# 🚀 About Me  💻 Technical Trainer (EN/ES/FR)
+## 🎓 Cloud Engineer | AI Agents & Automations, RPA | Data Analyst & Machine Learning
 
 I'm a data enthusiast with a diverse IT, training, and sales background, currently sharpening my  skills in Cloud Engineering, AI Agents & Automations, Data Analysis and Machine Learning.
 
@@ -137,8 +137,6 @@ Feel free to reach out for collaborations, feedback, or even a quick chat. 😊
 ---
 
 **Thank you for visiting my profile!** 😊
-
-I look forward to connecting with fellow enthusiasts and potential collaborators in IT, Training, Sales, and beyond.
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=miqueasmd&data=followers,repositories,stars,commits)](https://github.com/miqueasmd)
 
