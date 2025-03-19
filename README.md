@@ -138,7 +138,7 @@ Feel free to reach out for collaborations, feedback, or even a quick chat. 😊
 
 **Thank you for visiting my profile!** 😊
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=miqueasmd&data=followers,repositories,stars,commits)](https://github.com/miqueasmd)
+<!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=miqueasmd&data=followers,repositories,stars,commits)](https://github.com/miqueasmd -->
 
 <footer>
     <p>© 2025 Miqueas Molina MMD • <a href="https://ko-fi.com/miqueasmd">Support my work</a></p>
