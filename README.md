@@ -40,11 +40,18 @@ Fluent in Spanish (Native), English (Proficient), French (B2 and learning) and S
 ## 💻 Technical Skills
 
 ### **Automation & Integrations:**  
-- **Make** - Automating workflows and integrations across multiple platforms. ![Make](https://img.shields.io/badge/Make-FF5F00?style=flat&logo=make&logoColor=white)
-- **Gumloop** - Building automated templates with zero-code solutions. ![Gumloop](https://img.shields.io/badge/Gumloop-00A9E0?style=flat&logo=gumloop&logoColor=white)
-- **n8n** - Low-code workflow automation tool for complex integrations. ![n8n](https://img.shields.io/badge/n8n-00D200?style=flat&logo=n8n&logoColor=white)
+
+#### **RPA Tools**  
+- **UiPath** - Leading RPA platform for designing and deploying software robots. ![UiPath](https://img.shields.io/badge/UiPath-FE4B00?style=flat&logo=uipath&logoColor=white)  
+- **Automation Anywhere** - Enterprise-grade RPA tool for scalable, AI-powered automation. ![Automation Anywhere](https://img.shields.io/badge/Automation%20Anywhere-F78D1E?style=flat&logo=automationanywhere&logoColor=white)  
+- **Power Automate** - Microsoft's automation tool for workflows between apps and services. ![Power Automate](https://img.shields.io/badge/Power%20Automate-0078D4?style=flat&logo=microsoft-power-automate&logoColor=white)  
+
+#### **Automation Platforms**  
+- **Make** - Automating workflows and integrations across multiple platforms. ![Make](https://img.shields.io/badge/Make-FF5F00?style=flat&logo=make&logoColor=white)  
+- **Gumloop** - Building automated templates with zero-code solutions. ![Gumloop](https://img.shields.io/badge/Gumloop-00A9E0?style=flat&logo=gumloop&logoColor=white)  
+- **n8n** - Low-code workflow automation tool for complex integrations. ![n8n](https://img.shields.io/badge/n8n-00D200?style=flat&logo=n8n&logoColor=white)  
 - **Zapier** - Connecting apps and automating repetitive tasks. ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
-- **Power Automate** - Microsoft's automation tool for workflows between apps and services. ![Power Automate](https://img.shields.io/badge/Power%20Automate-0078D4?style=flat&logo=microsoft-power-automate&logoColor=white)
+
 
 ### **Programming:**
 - **Data Analytics, Machine Learning, and IA:** Python, SQL   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)   ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)  
