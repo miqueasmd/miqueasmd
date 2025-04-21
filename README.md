@@ -31,7 +31,7 @@ Then, I had the opportunity to work at the first Apple Store in Marbella, Málag
 Following that, I embarked on a journey around the world (USA, UK, Germany and Spain), working in training and sales across IT, sports, and languages—my three passions. 
 
 ## 💡 Current Focus
-I specialize in helping businesses and professionals boost their skills and companies with Cloud, automation, and AI.
+I specialize in helping businesses and professionals boost their skills and companies with Cloud, Automation, and AI.
 
 ## 🌍 Language Proficiency 
 Fluent in Spanish (Native), English (Proficient), French (B2 and learning) and Sign Language (Intermediate).
