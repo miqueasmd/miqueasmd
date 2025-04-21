@@ -94,7 +94,7 @@ Fluent in Spanish (Native), English (Proficient), French (B2 and learning) and S
   - Mobility tests and wellness challenges.
   - Comprehensive dashboard for user insights.
 - **Tech Stack**: Python, Streamlit, PostgreSQL (Neon), psycopg2, dotenv.
-- **Live Demo**: [Try HealthyRemote](https://healthyremote.streamlit.app/)
+- **Live Demo**: [Try HealthyRemote](https://app.mmdhealthyremote.es/)
 - **Repository**: [HealthyRemote GitHub](https://github.com/miqueasmd/HealthyRemote)
 
 ### [Microsoft Malware Detection Challenge](https://github.com/miqueasmd/Microsoft_Malware_Challenge)
