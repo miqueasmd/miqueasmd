@@ -81,7 +81,6 @@ Fluent in Spanish (Native), English (Proficient), French (B2 and learning) and S
 - **AI & Cloud Computing**: Interested in deploying and scaling IT solutions using cloud platforms. ☁️
 - **AI Agents & Automations**: Focused on building intelligent AI agents and automating processes to improve efficiency and decision-making. 🤖
 - **Data analysis & Machine Learning**: Excited about exploring new algorithms, improving predictive models, and developing impactful data-driven solutions. 📊
-- **Educational Technology**: Blending data science with educational/training tools to enhance learning experiences. 🎓
 
 ---
 
