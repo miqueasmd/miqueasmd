@@ -33,6 +33,8 @@ Following that, I embarked on a journey around the world (USA, UK, Germany and S
 ## 💡 Current Focus
 I specialize in helping businesses and professionals boost their skills and companies with Cloud, Automation, and AI.
 
+![My Journey](https://github.com/miqueasmd/miqueasmd/blob/main/Miqueas's%20Career%20Map.png)
+
 ## 🌍 Language Proficiency 
 Fluent in Spanish (Native), English (Proficient), French (B2 and learning) and Sign Language (Intermediate).
 
