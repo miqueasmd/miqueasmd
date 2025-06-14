@@ -86,45 +86,59 @@ Fluent in Spanish (Native), English (Proficient), French (B2 and learning) and S
 
 ## 🛠️ Projects  
 
-### [HealthyRemote](https://github.com/miqueasmd/HealthyRemote)
-- **Overview**: A wellness platform designed for remote workers to track activities, stress levels, weight, and mobility tests to maintain a healthy lifestyle.
+### [Invoice Accounting Automation](https://github.com/miqueasmd/RPA_UiPath_Invoices_Automation_Capstone_Project)  
+- **Overview**: RPA solution that automates invoice processing in ACME’s web app using a Dispatcher / Performer architecture.  
 - **Features**:
-  - User authentication (login and sign-up).
-  - Daily activity tracking.
-  - Stress level and weight logging.
-  - Mobility tests and wellness challenges.
-  - Comprehensive dashboard for user insights.
-- **Tech Stack**: Python, Streamlit, PostgreSQL (Neon), psycopg2, dotenv.
-- **Live Demo**: [Try HealthyRemote](https://app.mmdhealthyremote.es/)
-- **Repository**: [HealthyRemote GitHub](https://github.com/miqueasmd/HealthyRemote)
+  - Automated extraction and processing of invoice data  
+  - Queue-based transaction management  
+  - Robust exception handling with UiPath REFramework  
+  - Scalable design for high-volume processing  
+- **Tech Stack**: UiPath Studio, UiPath Orchestrator, REFramework  
 
-### [Microsoft Malware Detection Challenge](https://github.com/miqueasmd/Microsoft_Malware_Challenge)
-- **Overview**: A machine learning project predicting malware detections on Windows machines using Microsoft’s dataset of system and security features.
+### [AI Agents & Automation Research](https://github.com/miqueasmd/AI_Agents_Automation_RPA_Capstone_Project_ASIR)  
+- **Overview**: Capstone study investigating whether AI assistants and RPA platforms augment or threaten IT-Ops roles.  
 - **Features**:
-  - Data preprocessing and feature engineering for 83 system-related features.
-  - Machine learning models for malware classification.
-  - Stratified sampling to maintain class balance.
-- **Tech Stack**: Python, Pandas, Scikit-learn, Jupyter Notebook.
-- **Repository**: [Microsoft Malware Challenge](https://github.com/miqueasmd/Microsoft_Malware_Challenge)
+  - Comparative analysis of leading AI agents and automation tools  
+  - Benchmarking and productivity impact assessment  
+  - Skills roadmap for IT professionals  
+  - Reference architecture for hybrid human-bot workflows  
+- **Tech Stack**: GitHub Copilot, UiPath, Power Automate, Make, Zapier, n8n  
 
-### [100 Days of Code (Replit Challenge)](https://github.com/miqueasmd/100_days_of_Code_Replit)
-- **Features**: A series of coding challenges and projects designed to enhance programming skills across various domains.
-- **Tech Stack**: Python, Flask, Shelve DB, HTML, CSS, and JavaScript.
-- **Repository**: [Explore the Challenges](https://github.com/miqueasmd/100_days_of_Code_Replit)
+### [HealthyRemote](https://github.com/miqueasmd/HealthyRemote)  
+- **Overview**: Wellness platform for remote workers to track activities, stress, weight, and mobility tests.  
+- **Features**:
+  - User authentication (login and sign-up)  
+  - Daily activity tracking, stress and weight logging  
+  - Mobility tests and wellness challenges  
+  - Comprehensive dashboard for user insights  
+- **Tech Stack**: Python, Streamlit, PostgreSQL (Neon), psycopg2, dotenv  
+- **Live Demo**: [Try HealthyRemote](https://app.mmdhealthyremote.es/)  
 
-### [Translator App](https://github.com/miqueasmd/translator)
-- **Features**: Multilingual text translation, intuitive interface, and real-time results.
-- **Tech Stack**: Python, Streamlit, Deep Translator API.
-- **Live Demo**: [Try the App](https://mmdtranslator.streamlit.app/)
+### [Microsoft Malware Detection Challenge](https://github.com/miqueasmd/Microsoft_Malware_Challenge)  
+- **Overview**: Machine-learning project predicting malware detections on Windows machines.  
+- **Features**:
+  - Data preprocessing and feature engineering for 83 system features  
+  - Multiple ML models for malware classification  
+  - Stratified sampling to maintain class balance  
+- **Tech Stack**: Python, Pandas, Scikit-learn, Jupyter Notebook  
 
-### [Shark Attack (Olympic Games Edition)](https://github.com/miqueasmd/Shark-Attack-Olympic-Games-Edition)
-- **Overview**: Analyzed a dataset of shark attacks to help an insurance company determine rates for Olympic athletes.
+### [100 Days of Code (Replit Challenge)](https://github.com/miqueasmd/100_days_of_Code_Replit)  
+- **Features**: Series of coding challenges and mini-projects across various domains.  
+- **Tech Stack**: Python, Flask, Shelve DB, HTML, CSS, JavaScript  
 
-### [Haunted House Escape Room](https://github.com/miqueasmd/Haunted-House-Escaperoom)
-- **Overview**: Developed an interactive text-based game in Python, incorporating both text and image assets.
+### [Translator App](https://github.com/miqueasmd/translator)  
+- **Features**: Multilingual text translation with an intuitive Streamlit UI and real-time results.  
+- **Tech Stack**: Python, Streamlit, Deep-Translator API  
+- **Live Demo**: [Try the App](https://mmdtranslator.streamlit.app/)  
 
+### [Shark Attack (Olympic Games Edition)](https://github.com/miqueasmd/Shark-Attack-Olympic-Games-Edition)  
+- **Overview**: Data-analysis project that helps an insurance company set rates for Olympic athletes.  
 
-> More projects can be found in my repositories! Feel free to check them out and provide feedback.
+### [Haunted House Escape Room](https://github.com/miqueasmd/Haunted-House-Escaperoom)  
+- **Overview**: Interactive text-based game in Python with both text and image assets.  
+
+> More projects can be found in my repositories — feel free to explore and leave feedback!
+
 
 ---
 
