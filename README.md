@@ -42,7 +42,7 @@ All of this, powered by **AI** in all its forms, including **intelligent Agents*
 **AI Cloud, Automation & RPA Engineer** @ [Ferrovial](https://www.ferrovial.com/) *(Oct 2025 - Present)*
 > Designing AI-powered automation and cloud workflows using Microsoft Power Platform, Azure, and LangGraph. Key projects: Schedule Agent (GPT-5 + Azure), Geotechnical Intelligence Agent.
 
-**AI Cloud, Automation & RPA Engineer & Consultant** @ [Malt](https://www.malt.es/) *(Feb 2026 - Present)*
+**AI Cloud, Automation & RPA Engineer & Consultant** @ [Malt](https://www.malt.es/profile/miqueasmolina) *(Feb 2026 - Present)*
 > Consulting with businesses across Europe. Key projects: Full Oracle Cloud infrastructure for hospitality, AI-powered WhatsApp booking system for wellness business, automated Shopify order processing on GCP.
 
 **AI Cloud, Automation & RPA Engineer & Consultant** @ [Upwork](https://www.upwork.com/freelancers/miqueasmd) *(May 2025 - Present)*
