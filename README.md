@@ -7,8 +7,8 @@
   <a href="https://www.linkedin.com/in/miqueas-molina">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.mmdlab.tech">
-    <img src="https://img.shields.io/badge/MMDLab.tech-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white">
+  <a href="https://portfolio.mmdlab.tech">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
   <a href="https://www.upwork.com/freelancers/miqueasmd">
     <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white">
