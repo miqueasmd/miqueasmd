@@ -42,7 +42,7 @@ All of this, powered by **AI** in all its forms, including **intelligent Agents*
 **AI Cloud, Automation & RPA Engineer** @ [Ferrovial](https://www.ferrovial.com/) *(Oct 2025 - Present)*
 > Designing AI-powered automation and cloud workflows using Microsoft Power Platform, Azure, and LangGraph. Key projects: Schedule Agent (GPT-5 + Azure), Geotechnical Intelligence Agent.
 
-**AI Cloud, Automation & RPA Consultant** @ [Malt](https://www.malt.es/) *(Feb 2026 - Present)*
+**AI Cloud, Automation & RPA Engineer & Consultant** @ [Malt](https://www.malt.es/) *(Feb 2026 - Present)*
 > Consulting with businesses across Europe. Key projects: Full Oracle Cloud infrastructure for hospitality, AI-powered WhatsApp booking system for wellness business, automated Shopify order processing on GCP.
 
 **AI Cloud, Automation & RPA Engineer & Consultant** @ [Upwork](https://www.upwork.com/freelancers/miqueasmd) *(May 2025 - Present)*
@@ -92,7 +92,7 @@ AI Agents & Automation ──── Cloud Integration ──── Technical Tra
 - **Geotechnical Intelligence Agent** — Multi-model AI analysis (GPT-5, O3) for geotechnical documents. Copilot Studio + 12 Power Automate flows.
 - **AI Image Editor & Document Merger** — FastAPI app on Azure Container Apps with Gemini (Vertex AI) for masked in-painting, plus PDF/PPTX generation service. Integrated with Airtable and Google Drive.
 
-**@ Malt (Consulting)**
+**@ Malt**
 - **Hospitality Cloud Infrastructure** — Full Oracle Cloud (OCI) setup: ARM servers, Docker (n8n, PostgreSQL, Redis, Caddy), SSH hardening, automated backups, pentesting.
 - **AI WhatsApp Booking System** — Beauty & wellness business: n8n workflows, Google Calendar sync, automated Google reviews (49 → 128 in ~6 months, 4.9 avg rating). Multi-tenant Streamlit dashboard with CI/CD.
 - **Shopify Order Automation** — Python Cloud Function on GCP: order processing, SKU mapping, combo decomposition, Google Sheets output.
