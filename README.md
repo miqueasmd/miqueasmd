@@ -139,7 +139,7 @@ AI Agents & Automation ──── Cloud Integration ──── Technical Tra
 Feel free to reach out for collaborations, consulting, or a quick chat. 😊
 
 - [LinkedIn](https://www.linkedin.com/in/miqueas-molina)
-- [MMDLab.tech](https://www.mmdlab.tech)
+- [Portfolio](https://portfolio.mmdlab.tech)
 - [Upwork](https://www.upwork.com/freelancers/miqueasmd)
 - [Malt](https://www.malt.es/profile/miqueasmolina)
 
