@@ -53,7 +53,7 @@ All of this, powered by **AI** in all its forms, including **intelligent Agents*
 ```
 AI Agents & Automation ──── Cloud Integration ──── Technical Training
         │                         │                        │
-   AI-powered workflows    Azure / AWS / GCP / OCI    Upskilling teams
+   AI-powered workflows    Azure / GCP / OCI / DO     Upskilling teams
    RPA (UiPath, PA)        Docker, CI/CD              Consulting
    LangGraph, n8n, Make    Serverless Functions        Mentoring
 ```
@@ -69,7 +69,7 @@ AI Agents & Automation ──── Cloud Integration ──── Technical Tra
 ![UiPath](https://img.shields.io/badge/UiPath-FE4B00?style=flat&logo=uipath&logoColor=white) ![Power Automate](https://img.shields.io/badge/Power%20Automate-0078D4?style=flat&logo=microsoft-power-automate&logoColor=white) ![Copilot Studio](https://img.shields.io/badge/Copilot%20Studio-742774?style=flat&logo=microsoft&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-00D200?style=flat&logo=n8n&logoColor=white) ![Make](https://img.shields.io/badge/Make-FF5F00?style=flat&logo=make&logoColor=white)
 
 ### **Cloud & Infrastructure**
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat&logo=oracle&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat&logo=oracle&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white) ![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=flat&logo=hetzner&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ### **Programming & Web**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -132,7 +132,7 @@ AI Agents & Automation ──── Cloud Integration ──── Technical Tra
 ## 📈 Goals for 2026
 - Scale AI automation consulting, expanding the client base across US and Europe.
 - Deepen expertise in multi-agent AI systems and enterprise-grade automation solutions.
-- Strengthen cloud infrastructure skills across Azure, GCP, AWS, and OCI.
+- Deepen cloud infrastructure expertise across Azure, GCP and Oracle Cloud, with hands-on use of Digital Ocean and Hetzner for cost-efficient deployments.
 - Continue evolving in Computer Science Engineering (UOC).
 
 ---
