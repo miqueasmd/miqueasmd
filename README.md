@@ -4,7 +4,7 @@
 <h3 align="center">AI & Cloud Automation Engineer & Consultant | AI Agents | RPA | EN/ES/FR | Technical Trainer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/miqueas-molina">
+  <a href="https://www.linkedin.com/in/miqueas-molina-ai-cloud-automation">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://portfolio.mmdlab.tech">
@@ -39,14 +39,14 @@ All of this, powered by **AI** in all its forms, including **intelligent Agents*
 
 ## 💼 Current Roles
 
-**AI Cloud, Automation & RPA Engineer** @ [Ferrovial](https://www.ferrovial.com/) *(Oct 2025 - Present)*
-> Designing AI-powered automation and cloud workflows using Microsoft Power Platform, Azure, and LangGraph. Key projects: Schedule Agent (GPT-5 + Azure), Geotechnical Intelligence Agent.
+**AI & Cloud Automation Engineer** @ [Ferrovial](https://www.ferrovial.com/) *(Oct 2025 - Present)*
+> Designing and deploying AI agents in production for critical infrastructure. Key projects: Schedule Agent (~7,000 P6 activities), Geotechnical Intelligence Agent (70+ test types), and JFK New Terminal One (100% mapping of trial requirements).
 
-**AI Cloud, Automation & RPA Engineer & Consultant** @ [Malt](https://www.malt.es/profile/miqueasmolina) *(Feb 2026 - Present)*
-> Consulting with businesses across Europe. Key projects: Full Oracle Cloud infrastructure for hospitality, AI-powered WhatsApp booking system for wellness business, automated Shopify order processing on GCP.
+**AI & Cloud Automation Engineer & Consultant** @ [Malt](https://www.malt.es/profile/miqueasmolina) *(Feb 2026 - Present)*
+> Consulting with businesses across Europe. Key projects: full Oracle Cloud infrastructure for hospitality, AI-powered WhatsApp booking system for wellness business (39 → 151 Google reviews in <1 year, 4.9★), automated Shopify order processing on GCP (1,643 orders/month, peak 3,661).
 
-**AI Cloud, Automation & RPA Engineer & Consultant** @ [Upwork](https://www.upwork.com/freelancers/miqueasmd) *(May 2025 - Present)*
-> AI Agents, Automations & RPA, Cloud Services & Integrations, Technical Training. Key project: Industrial packaging RPA with Power Automate Desktop + AI Builder OCR.
+**AI & Cloud Automation Engineer & Consultant** @ [Upwork](https://www.upwork.com/freelancers/miqueasmd) *(May 2025 - Present)*
+> AI Agents, Automations & RPA, Cloud Services & Integrations, Technical Training. Key projects: industrial packaging RPA with 100% fields validated via human-in-the-loop, and public health OCR pipeline processing 8,000 handwritten surveys.
 
 ## 💡 What I Do
 
@@ -88,17 +88,19 @@ AI Agents & Automation ──── Cloud Integration ──── Technical Tra
 > These are projects built for clients — source code is private, but here's what I've been working on:
 
 **@ Ferrovial**
-- **Schedule Agent** — AI system that transforms contractual documents into P6-type baseline schedules (~7,000 activities). Azure Functions + Copilot Studio + GPT-5 + 11 Power Automate flows.
-- **Geotechnical Intelligence Agent** — Multi-model AI analysis (GPT-5, O3) for geotechnical documents. Copilot Studio + 12 Power Automate flows.
-- **AI Image Editor & Document Merger** — FastAPI app on Azure Container Apps with Gemini (Vertex AI) for masked in-painting, plus PDF/PPTX generation service. Integrated with Airtable and Google Drive.
+- **Schedule Agent**: AI system that transforms contractual documents into P6-style baseline schedules with ~7,000 activities, project-agnostic across road, rail, airports, and data centers. Azure Functions + Copilot Studio + GPT-5 + Document Intelligence + 11 Power Automate flows.
+- **Geotechnical Intelligence Agent**: gap detection and field workbook generation covering 70+ test types. Multi-model GPT-5 + O3 + 12 Power Automate flows.
+- **JFK New Terminal One**: Trial Readiness Agent and Site Progress Tracking for the New York airport program. PoC (March 2026) achieved 100% automated mapping of 52 trial requirements over 106 equipment items, integrating SharePoint Excel scripts with Bluerithm equipment data. Site Progress dashboard with RAG status, % completion, and LLM narrative integrating OpenSpace checklist with PMO milestone schedule.
+- **AI Image Editor & Document Merger**: FastAPI app on Azure Container Apps with Gemini (Vertex AI) for masked in-painting, plus PDF/PPTX generation service. Integrated with Airtable and Google Drive.
 
 **@ Malt**
-- **Hospitality Cloud Infrastructure** — Full Oracle Cloud (OCI) setup: ARM servers, Docker (n8n, PostgreSQL, Redis, Caddy), SSH hardening, automated backups, pentesting.
-- **AI WhatsApp Booking System** — Beauty & wellness business: n8n workflows, Google Calendar sync, automated Google reviews (49 → 128 in ~6 months, 4.9 avg rating). Multi-tenant Streamlit dashboard with CI/CD.
-- **Shopify Order Automation** — Python Cloud Function on GCP: order processing, SKU mapping, combo decomposition, Google Sheets output.
+- **Hospitality Cloud Infrastructure**: full Oracle Cloud (OCI) setup with 2 ARM servers (prod/dev), Docker (n8n, PostgreSQL, Redis, Caddy), SSH hardening, automated backups, pentesting.
+- **AI WhatsApp Booking System**: beauty & wellness business with n8n + ActivePieces + Evolution API (WhatsApp), Google Calendar sync, automated review capture. 39 → 151 Google reviews in <1 year, 4.9★ average, 100% automated review response, zero missed appointments. Multi-tenant Streamlit dashboard on Oracle Cloud with CI/CD via GitHub Actions.
+- **Shopify Order Automation**: Python Cloud Function on GCP orchestrating 1,643 orders/month (peak 3,661) for wholesale produce e-commerce. Shopify Admin API + SKU mapping (161 SKUs, 62 combos) + Google Sheets database + WhatsApp/Telegram alerts by SKU. In production since March 2026.
 
 **@ Upwork**
-- **Industrial Packaging RPA** — 3 modules: supplier OCR extraction (AI Builder), production coil tracking with PDF labels, customer order ERP entry. 10 flows, 3 AI Builder OCR models.
+- **Industrial Packaging RPA**: 3 modules for an industrial packaging vendor (end clients El Corte Inglés / DIA / EROSKI): supplier OCR for delivery notes, production coil tracking with PDF labels, and EDI customer order entry on a legacy ERP (Gestión 21). 10 Power Automate flows + 3 AI Builder OCR models over 11 layouts + SharePoint. 100% fields validated with human-in-the-loop (uncertain ones flagged for human review).
+- **Public Health Survey OCR (Kidekom)**: GCP pipeline for 8,000 handwritten surveys from the "Convive con el Sol" program (Piel Sana Foundation + La Roche-Posay). Cloud Function 2nd gen + Pub/Sub fan-out + multi-engine voting + VLM contextual rescue + auto-flip detector. 1,012 processed in 12 batches so far.
 
 ### 🌐 Public Repositories
 
@@ -138,7 +140,7 @@ AI Agents & Automation ──── Cloud Integration ──── Technical Tra
 ## 📫 Let's build something amazing together!
 Feel free to reach out for collaborations, consulting, or a quick chat. 😊
 
-- [LinkedIn](https://www.linkedin.com/in/miqueas-molina)
+- [LinkedIn](https://www.linkedin.com/in/miqueas-molina-ai-cloud-automation)
 - [Portfolio](https://portfolio.mmdlab.tech)
 - [Upwork](https://www.upwork.com/freelancers/miqueasmd)
 - [Malt](https://www.malt.es/profile/miqueasmolina)
