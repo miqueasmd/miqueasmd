@@ -40,7 +40,7 @@ All of this, powered by **AI** in all its forms, including **intelligent Agents*
 ## 💼 Current Roles
 
 **AI & Cloud Automation Engineer** @ [Ferrovial](https://www.ferrovial.com/) *(Oct 2025 - Present)*
-> Designing and deploying AI agents and automation in production for critical infrastructure across different business areas: document automation, intelligent copilots, RAG/agentic systems and RPA. Stack: Python/FastAPI, Azure (Functions, Container Apps, Azure OpenAI, Document Intelligence), Microsoft Power Platform (Power Automate, Power Apps, Copilot Studio, Dataverse), RPA (UiPath), multi-model LLMs (GPT-5, O3, Gemini, Claude), RAG + agentic orchestration (LangGraph/LangChain), MCP, n8n and REST integrations.
+> Designing and deploying AI agents and automation in production for critical infrastructure across different business areas: document automation, intelligent copilots, RAG/agentic systems and RPA. Stack: Python/FastAPI, Azure (Functions, Container Apps, Azure OpenAI, Document Intelligence), multi-model LLMs (GPT-5, O3, Gemini, Claude), RAG + agentic orchestration (LangGraph/LangChain), MCP, Microsoft Power Platform (Power Automate, Power Apps, Copilot Studio, Dataverse), n8n, RPA (UiPath) and REST integrations.
 
 **AI & Cloud Automation Engineer & Consultant** @ [Malt](https://www.malt.es/profile/miqueasmolina) *(Feb 2026 - Present)*
 > Consulting with businesses across Europe. Key projects: full Oracle Cloud infrastructure for hospitality, AI-powered WhatsApp booking system for wellness business (39 → 151 Google reviews in <1 year, 4.9★), automated Shopify order processing on GCP (1,643 orders/month, peak 3,661).
@@ -89,7 +89,7 @@ AI Agents & Automation ──── Cloud Integration ──── Technical Tra
 
 **@ Ferrovial**
 - Different AI & Automation projects across different business areas, in production for critical infrastructure: AI agents, document automation, intelligent copilots, RAG/agentic reporting and RPA.
-- **Tech stack:** Python (FastAPI), Microsoft Azure (Functions, Container Apps, Azure OpenAI, Document Intelligence, AI Services), Microsoft Power Platform (Power Automate, Power Apps, Copilot Studio, Dataverse), RPA (UiPath), multi-model LLMs (GPT-5, O3, Gemini 2.5 Pro, Claude / Claude Code), RAG + agentic orchestration (LangGraph, LangChain), MCP, n8n, REST APIs, SharePoint, Airtable, Google Drive.
+- **Tech stack:** Python (FastAPI), Microsoft Azure (Functions, Container Apps, Azure OpenAI, Document Intelligence, AI Services), multi-model LLMs (GPT-5, O3, Gemini 2.5 Pro, Claude / Claude Code), RAG + agentic orchestration (LangGraph, LangChain), MCP, Microsoft Power Platform (Power Automate, Power Apps, Copilot Studio, Dataverse), n8n, RPA (UiPath), REST APIs, SharePoint, Airtable, Google Drive.
 
 **@ Malt**
 - **Hospitality Cloud Infrastructure**: full Oracle Cloud (OCI) setup with 2 ARM servers (prod/dev), Docker (n8n, PostgreSQL, Redis, Caddy), SSH hardening, automated backups, pentesting.
