@@ -88,7 +88,7 @@ AI Agents & Automation ──── Cloud Integration ──── Technical Tra
 > These are projects built for clients — source code is private, but here's what I've been working on:
 
 **@ Ferrovial**
-- Different AI & Automation projects across different business areas, in production for critical infrastructure: AI agents, document automation, intelligent copilots, RAG/agentic reporting and RPA. Source code is client-confidential, so no project names or figures here.
+- Different AI & Automation projects across different business areas, in production for critical infrastructure: AI agents, document automation, intelligent copilots, RAG/agentic reporting and RPA.
 - **Tech stack:** Python (FastAPI), Microsoft Azure (Functions, Container Apps, Azure OpenAI, Document Intelligence, AI Services), Microsoft Power Platform (Power Automate, Power Apps, Copilot Studio, Dataverse), multi-model LLMs (GPT-5, O3, Gemini 2.5 Pro, Claude / Claude Code), RAG + agentic orchestration (LangGraph, LangChain), MCP, n8n, REST APIs, SharePoint, Airtable, Google Drive.
 
 **@ Malt**
