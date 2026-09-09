@@ -43,10 +43,10 @@ All of this, powered by **AI** in all its forms, including **intelligent Agents*
 > Designing and deploying AI agents and automation in production for critical infrastructure across different business areas: document automation, intelligent copilots, RAG/agentic systems and RPA. Stack: Python/FastAPI, Azure (Functions, Container Apps, Azure OpenAI, Document Intelligence), multi-model LLMs (GPT-5, O3, Gemini, Claude), RAG + agentic orchestration (LangGraph/LangChain), MCP, Microsoft Power Platform (Power Automate, Power Apps, Copilot Studio, Dataverse), n8n, RPA (UiPath) and REST integrations.
 
 **AI & Cloud Automation Engineer & Consultant** @ [Malt](https://www.malt.es/profile/miqueasmolina) *(Feb 2026 - Present)*
-> Consulting with businesses across Europe. Key projects: full Oracle Cloud infrastructure for hospitality, AI-powered WhatsApp booking system for wellness business (39 → 151 Google reviews in <1 year, 4.9★), automated Shopify order processing on GCP (1,643 orders/month, peak 3,661).
+> Consulting with businesses across Europe. Key projects: full Oracle Cloud infrastructure for hospitality, AI-powered WhatsApp booking system for wellness business (39 → 151 Google reviews in <1 year, 4.9★), automated Shopify order processing on GCP (1,643 orders/month, peak 3,661), and public health OCR pipeline processing 8,000 handwritten surveys.
 
 **AI & Cloud Automation Engineer & Consultant** @ [Upwork](https://www.upwork.com/freelancers/miqueasmd) *(May 2025 - Present)*
-> AI Agents, Automations & RPA, Cloud Services & Integrations, Technical Training. Key projects: industrial packaging RPA with 100% fields validated via human-in-the-loop, and public health OCR pipeline processing 8,000 handwritten surveys.
+> AI Agents, Automations & RPA, Cloud Services & Integrations, Technical Training. Key project: industrial packaging RPA with 100% fields validated via human-in-the-loop.
 
 ## 💡 What I Do
 
@@ -95,10 +95,10 @@ AI Agents & Automation ──── Cloud Integration ──── Technical Tra
 - **Hospitality Cloud Infrastructure**: full Oracle Cloud (OCI) setup with 2 ARM servers (prod/dev), Docker (n8n, PostgreSQL, Redis, Caddy), SSH hardening, automated backups, pentesting.
 - **AI WhatsApp Booking System**: beauty & wellness business with n8n + ActivePieces + WhatsApp, Google Calendar sync, automated review capture. 39 → 151 Google reviews in <1 year, 4.9★ average, 100% automated review response, zero missed appointments. Multi-tenant Streamlit dashboard on Oracle Cloud with CI/CD via GitHub Actions.
 - **Shopify Order Automation**: Python Cloud Function on GCP orchestrating 1,643 orders/month (peak 3,661) for wholesale produce e-commerce. Shopify Admin API + SKU mapping (161 SKUs, 62 combos) + Google Sheets database + WhatsApp/Telegram alerts by SKU. In production since March 2026.
+- **Public Health Survey OCR (Kidekom)**: GCP pipeline for 8,000 handwritten surveys from the "Convive con el Sol" program (Piel Sana Foundation + La Roche-Posay). Cloud Function 2nd gen + Pub/Sub fan-out + multi-engine voting + VLM contextual rescue + auto-flip detector. 1,012 processed in 12 batches so far.
 
 **@ Upwork**
 - **Industrial Packaging RPA**: 3 modules for an industrial packaging vendor (end clients El Corte Inglés / DIA / EROSKI): supplier OCR for delivery notes, production coil tracking with PDF labels, and EDI customer order entry on a legacy ERP (Gestión 21). 10 Power Automate flows + 3 AI Builder OCR models over 11 layouts + SharePoint. 100% fields validated with human-in-the-loop (uncertain ones flagged for human review).
-- **Public Health Survey OCR (Kidekom)**: GCP pipeline for 8,000 handwritten surveys from the "Convive con el Sol" program (Piel Sana Foundation + La Roche-Posay). Cloud Function 2nd gen + Pub/Sub fan-out + multi-engine voting + VLM contextual rescue + auto-flip detector. 1,012 processed in 12 batches so far.
 
 ### 🌐 Public Repositories
 
