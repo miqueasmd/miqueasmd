@@ -31,9 +31,9 @@
 I specialize in **helping companies and professionals** boost their skills and grow their businesses through **AI, Automation, and Cloud** integrations.
 
 The present and future of any business depend on 3 key pillars:
-- **Automation** — Optimize processes and systems to save time and money.
-- **Cloud Services** — Scale and amplify your company's potential.
-- **Training & Support** — Learn and develop skills to stay ahead.
+- **Automation**: optimize processes and systems to save time and money.
+- **Cloud Services**: scale and amplify your company's potential.
+- **Training & Support**: learn and develop skills to stay ahead.
 
 All of this, powered by **AI** in all its forms, including **intelligent Agents**.
 
