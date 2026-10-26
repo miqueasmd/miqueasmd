@@ -4,7 +4,7 @@
 <h3 align="center">AI & Cloud Automation Engineer & Consultant | AI Agents | RPA | EN/ES/FR | Technical Trainer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/miqueas-molina-ai-cloud-automation">
+  <a href="https://www.linkedin.com/in/miqueas-molina-ai-solutions-engineer-agents-automation">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://portfolio.mmdlab.tech">
@@ -138,7 +138,7 @@ AI Agents & Automation ──── Cloud Integration ──── Technical Tra
 ## 📫 Let's build something amazing together!
 Feel free to reach out for collaborations, consulting, or a quick chat. 😊
 
-- [LinkedIn](https://www.linkedin.com/in/miqueas-molina-ai-cloud-automation)
+- [LinkedIn](https://www.linkedin.com/in/miqueas-molina-ai-solutions-engineer-agents-automation)
 - [Portfolio](https://portfolio.mmdlab.tech)
 - [Upwork](https://www.upwork.com/freelancers/miqueasmd)
 - [Malt](https://www.malt.es/profile/miqueasmolina)
