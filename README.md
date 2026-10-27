@@ -1,7 +1,7 @@
 <h1>
   Hi there! 👋 I'm Miqueas
 </h1>
-<h3 align="center">AI & Cloud Automation Engineer & Consultant | AI Agents | RPA | EN/ES/FR | Technical Trainer</h3>
+<h3 align="center">AI Solutions Engineer & Consultant | AI Agents and Automation | RPA | EN/ES/FR | Technical Trainer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/miqueas-molina-ai-solutions-engineer-agents-automation">
